@@ -1,6 +1,6 @@
-## Hey there 👋
+## Welcome, friends 🤗
 
-Welcome to my profile! I feel a great sense of accomplishment from creating stellar marketing materials through graphic designing, writing, and any supplemental tasks to be done to convey the message an organization aims to get across. Feel free to message me if your organization is in need of entry-level full or part-time design work. 
+You've reached my profile. I feel a great sense of accomplishment from creating stellar marketing materials through graphic designing, writing, and any supplemental tasks to be done to convey the message an organization aims to get across. Visit the "Repositories" tab above 👆🏼 to view my portfolio works. Feel free to message me if your organization is in need of entry-level full or part-time design work.
 
 ### 💪🏼 Strong with:
 
