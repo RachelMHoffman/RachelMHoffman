@@ -2,7 +2,7 @@
 
 Welcome to my profile! I feel a great sense of accomplishment from creating stellar marketing materials through graphic designing, writing, and any supplemental tasks to be done to convey the message an organization aims to get across. Feel free to message me if your organization is in need of entry-level full or part-time design work. 
 
-### Skilled with:
+### 💪🏼 Strong with:
 
 <div display="flex">
 
@@ -13,7 +13,7 @@ Welcome to my profile! I feel a great sense of accomplishment from creating stel
 
 </div>
 
-### Have Dabbled in:
+### 👍🏼 Dabbled in:
 
 <div display="flex">
 
@@ -21,7 +21,7 @@ Welcome to my profile! I feel a great sense of accomplishment from creating stel
 
 </div>
 
-### Learning Now:
+### 📚 Learning Now:
 
 <div display="flex">
 
@@ -30,12 +30,16 @@ Welcome to my profile! I feel a great sense of accomplishment from creating stel
   
 </div>
 
-### In the Works:
+### 💻 In the Works:
 
 - Getting this profile page more fleshed-out and beautified.
 - Converting the landing pages from several of my old Adobe XD prototypes into newer, better HTML + CSS + JavaScript pages.
 - Giving some of my old Github projects a face-lift. 
 
-### Fun Fact:
+### 🥰 Non-Computer Loves:
 
-- Filmed an episode of <i>Trading Spaces: Family</i> as a kid! 
+- Doggos 🐕
+- Hikes 🏔
+- Crafting 🎨
+- Movies 🍿
+- Traveling 🗽
