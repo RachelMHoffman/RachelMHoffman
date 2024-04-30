@@ -5,10 +5,10 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 <h2 style="font-size: 18px">✍🏻 Adobe Illustrator Projects</h2>
 <table align="center">
   <tr>
-    <td><img src="WFI-Logo-Thumbnail.png" width="300" height="300">
-      <p>Western Flash</p>
-      <p>Board Game Company Logo</p>
-      <p>2022</p>
+    <td><a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-WF/blob/main/README.md"><img src="WFI-Logo-Thumbnail.png" width="300" height="300"></a>
+      <p align="center">Western Flash</p>
+      <p align="center">Board Game Company Logo</p>
+      <p align="center">2022</p>
     </td>
     <td><img src="Eek-Logo-Thumbnail.png" width="300" height="300"></td>
   </tr>
