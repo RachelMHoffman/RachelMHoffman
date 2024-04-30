@@ -10,7 +10,11 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
       <p align="center">Board Game Company Logo</p>
       <p align="center">2022</p>
     </td>
-    <td><img src="Eek-Logo-Thumbnail.png" width="300" height="300"></td>
+    <td><a href=""><img src="Eek-Logo-Thumbnail.png" width="300" height="300"></a>
+      <p align="center">EEK</p>
+      <p align="center">Coding Education Company Logo</p>
+      <p align="center">2022</p>
+    </td>
   </tr>
 </table>
 <h2 style="font-size: 18px">✉️ Adobe InDesign Projects</h2>
