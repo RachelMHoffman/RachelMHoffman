@@ -7,14 +7,14 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 <table align="center">
   <tr>
     <td><a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-WF/blob/main/README.md"><img src="WFI-Logo-Thumbnail.png" width="300" height="300"></a>
-      <p align="center">Western Flash</p>
-      <p align="center">Board Game Company Logo</p>
-      <p align="center">2022</p>
+    <p align="center"><i>Western Flash</i></p>
+    <p align="center">Board Game Company Logo</p>
+    <p align="center">2022</p>
     </td>
     <td><a href=""><img src="Eek-Logo-Thumbnail.png" width="300" height="300"></a>
-      <p align="center">EEK</p>
-      <p align="center">Coding Education Company Logo</p>
-      <p align="center">2022</p>
+    <p align="center"><i>EEK</i></p>
+    <p align="center">Coding Education Company Logo</p>
+    <p align="center">2022</p>
     </td>
   </tr>
 </table>
