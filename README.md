@@ -11,7 +11,7 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
     <p align="center">Board Game Company Logo</p>
     <p align="center">2022</p>
     </td>
-    <td><a href=""><img src="EEK-Logo-Thumbnail.png" width="300" height="300"></a>
+    <td><a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-EEK/blob/main/README.md"><img src="EEK-Logo-Thumbnail.png" width="300" height="300"></a>
     <p align="center"><i>EEK</i></p>
     <p align="center">Coding Education Company Logo</p>
     <p align="center">2022</p>
