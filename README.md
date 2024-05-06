@@ -6,15 +6,23 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-WF/blob/main/README.md"><img src="WFI-Logo-Thumbnail.png" width="300" height="300"></a>
-    <p align="center"><i>Western Flash</i></p>
-    <p align="center">Board Game Company Logo</p>
-    <p align="center">2022</p>
+    <td align="center" width="300">
+      <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-WF/blob/main/README.md"><img src="WFI-Logo-Thumbnail.png" width="300" height="300"></a>
     </td>
-    <td><a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-EEK/blob/main/README.md"><img src="EEK-Logo-Thumbnail.png" width="300" height="300"></a>
-    <p align="center"><i>EEK</i></p>
-    <p align="center">Coding Education Company Logo</p>
-    <p align="center">2022</p>
+    <td align="center" width="300">
+      <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-EEK/blob/main/README.md"><img src="EEK-Logo-Thumbnail.png" width="300" height="300"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><i>Western Flash</i></p>
+      <p align="center">Board Game Company Logo</p>
+      <p align="center">2022</p>
+    </td>
+    <td>
+      <p align="center"><i>EEK</i></p>
+      <p align="center">Coding Education Company Logo</p>
+      <p align="center">2022</p>
     </td>
   </tr>
 </table>
@@ -23,15 +31,23 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 
 <table align="center">
   <tr>
-    <td><a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-SmartScape/blob/main/README.md"><img src="SmartScape-Thumbnail.png" width="300" height="300"></a>
-    <p align="center"><i>SmartScape</i></p>
-    <p align="center">Smart Home Technology Company's Subscriber Email Newsletter</p>
-    <p align="center">2024</p>
+    <td align="center" width="300">
+      <a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-SmartScape/blob/main/README.md"><img src="SmartScape-Thumbnail.png" width="300" height="300"></a>
     </td>
-    <td><a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-XYZ/blob/main/README.md"><img src="XYZ-Ventures-Thumbnail.png" width="300" height="300"></a>
-    <p align="center"><i>XYZ Ventures</i></p>
-    <p align="center">Business Productivity Software Company's Employee Email Newsletter</p>
-    <p align="center">2023</p>
+    <td align="center" width="300">
+      <a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-XYZ/blob/main/README.md"><img src="XYZ-Ventures-Thumbnail.png" width="300" height="300"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><i>SmartScape</i></p>
+      <p align="center">Smart Home Technology Company's Subscriber Email Newsletter</p>
+      <p align="center">2024</p>
+    </td>
+    <td>
+      <p align="center"><i>XYZ Ventures</i></p>
+      <p align="center">Business Productivity Software Company's Employee Email Newsletter</p>
+      <p align="center">2023</p>
     </td>
   </tr>
 </table>
