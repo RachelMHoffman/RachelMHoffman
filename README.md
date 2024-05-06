@@ -20,5 +20,21 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 </table>
 
 <h2 style="font-size: 18px">✉️ Adobe InDesign Projects</h2>
+
+<table align="center">
+  <tr>
+    <td><a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-SmartScape/blob/main/README.md"><img src="SmartScape-Logo-Thumbnail.png" width="300" height="300"></a>
+    <p align="center"><i>SmartScape</i></p>
+    <p align="center">Smart Home Technology Company's Subscriber Email Newsletter</p>
+    <p align="center">2024</p>
+    </td>
+    <td><a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-XYZ/blob/main/README.md"><img src="XYZ-Ventures-Logo-Thumbnail.png" width="300" height="300"></a>
+    <p align="center"><i>XYZ Ventures</i></p>
+    <p align="center">Business Productivity Software Company's Employee Email Newsletter</p>
+    <p align="center">2023</p>
+    </td>
+  </tr>
+</table>
+
 <h2 style="font-size: 18px">💻 Adobe XD Projects</h2>
 <h2 style="font-size: 18px">{ } HTML + CSS Coding Projects</h2>
