@@ -53,4 +53,9 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 </table>
 
 <h2 style="font-size: 18px">💻 Adobe XD Projects</h2>
+
+(In process of moving over projects from old portfolio site)
+
 <h2 style="font-size: 18px">{ } HTML + CSS Coding Projects</h2>
+
+(In process of updating and improving upon projects)
