@@ -58,10 +58,10 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <a href=""><img src="Hourglass_Thumbnail.png" width="" height=""></a>
+    <td align="center" width="500">
+      <a href=""><img src="" width="" height=""></a>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="500">
       <a href=""><img src="" width="" height=""></a>
     </td>
   </tr>
@@ -78,11 +78,11 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
     </td>
   </tr>
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="500">
       <a href=""><img src="" width="" height=""></a>
     </td>
-    <td align="center" width="300">
-      <a href=""><img src="" width="" height=""></a>
+    <td align="center" width="500">
+      <a href="https://github.com/RachelMHoffman/XD-Website-Project-Hourglass/blob/main/README.md"><img src="Hourglass_Thumbnail.png"             width="" height=""></a>
     </td>
   </tr>
   <tr>
@@ -92,9 +92,9 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
       <p align="center"></p>
     </td>
     <td>
-      <p align="center"><i></i></p>
-      <p align="center"></p>
-      <p align="center"></p>
+      <p align="center"><i>Hourglass</i></p>
+      <p align="center">Minivan Retail Company Website</p>
+      <p align="center">2022</p>
     </td>
   </tr>
 </table>
@@ -105,10 +105,10 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="500">
       <a href=""><img src="" width="" height=""></a>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="500">
       <a href=""><img src="" width="" height=""></a>
     </td>
   </tr>
