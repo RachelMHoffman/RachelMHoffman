@@ -56,6 +56,72 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
 
 (In process of moving over projects from old portfolio site)
 
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href=""><img src="Hourglass_Thumbnail.png" width="" height=""></a>
+    </td>
+    <td align="center" width="300">
+      <a href=""><img src="" width="" height=""></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><i></i></p>
+      <p align="center"></p>
+      <p align="center"></p>
+    </td>
+    <td>
+      <p align="center"><i></i></p>
+      <p align="center"></p>
+      <p align="center"></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href=""><img src="" width="" height=""></a>
+    </td>
+    <td align="center" width="300">
+      <a href=""><img src="" width="" height=""></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><i></i></p>
+      <p align="center"></p>
+      <p align="center"></p>
+    </td>
+    <td>
+      <p align="center"><i></i></p>
+      <p align="center"></p>
+      <p align="center"></p>
+    </td>
+  </tr>
+</table>
+
 <h2 style="font-size: 18px">{ } HTML + CSS Coding Projects</h2>
 
 (In process of updating and improving upon projects)
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href=""><img src="" width="" height=""></a>
+    </td>
+    <td align="center" width="300">
+      <a href=""><img src="" width="" height=""></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><i></i></p>
+      <p align="center"></p>
+      <p align="center"></p>
+    </td>
+    <td>
+      <p align="center"><i></i></p>
+      <p align="center"></p>
+      <p align="center"></p>
+    </td>
+  </tr>
+</table>
