@@ -82,7 +82,7 @@ You've reached my portfolio. I feel a great sense of accomplishment from creatin
       <a href=""><img src="" width="" height=""></a>
     </td>
     <td align="center" width="500">
-      <a href="https://github.com/RachelMHoffman/XD-Website-Project-Hourglass/blob/main/README.md"><img src="Hourglass_Thumbnail.png"             width="" height=""></a>
+      <a href="https://github.com/RachelMHoffman/XD-Web-Project-Hourglass/blob/main/README.md"><img src="Hourglass_Thumbnail.png" width="" height=""></a>
     </td>
   </tr>
   <tr>
