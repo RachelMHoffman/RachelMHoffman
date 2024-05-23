@@ -1,6 +1,6 @@
-<h1 style="font-size: 20px">Welcome, friends! 👋🏻 </h1>
+<h1 style="font-size: 20px" align="center">Rachel Hoffman</h1>
 
-You've reached my portfolio. I feel a great sense of accomplishment from creating stellar marketing materials through graphic designing, writing, and any supplemental tasks to be done to convey the message an organization aims to get across. Feel free to browse my current example projects made over the past few years below by section: Illustrator, InDesign, XD, and HTML & CSS.
+<h1 style="font-size: 19px" align="center">Graphic Design Portfolio</h1>
 
 <h2 style="font-size: 18px">✍🏻 Adobe Illustrator Projects</h2>
 
