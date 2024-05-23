@@ -25,8 +25,6 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/RachelMHoffman#TOP">Back to Top</a>&nbsp;⬆️</p>
-
 <h2 style="font-size: 18px"><a id="AID">Email Newsletter Designs</a></h2>
 
 <table align="center">
@@ -51,8 +49,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center"><a href="https://github.com/RachelMHoffman#TOP">Back to Top</a>&nbsp;⬆️</p>
 
 <h2 style="font-size: 18px"><a id="AXD">Interface Wireframe Designs</a></h2>
 
@@ -101,8 +97,6 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/RachelMHoffman#TOP">Back to Top</a>&nbsp;⬆️</p>
-
 <h2 style="font-size: 18px"><a id="HTMLCSS">Coding Projects</a></h2>
 
 (In process of updating and improving upon projects)
@@ -130,4 +124,4 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/RachelMHoffman#TOP">Back to Top</a>&nbsp;⬆️</p>
+<h3 style="font-size: 16px" align="center"><a href="https://github.com/RachelMHoffman#TOP">Back to Top</a>&nbsp;⬆️</h3>
