@@ -1,4 +1,6 @@
-<h2 style="font-size: 18px">✍🏻 Adobe Illustrator Projects</h2>
+<h1 style="font-size: 20px" align="center">Illustrator | InDesign | XD | HTML & CSS</h1>
+
+<h2 style="font-size: 18px"><a id="target">✍🏻 Adobe Illustrator Projects</a></h2>
 
 <table align="center">
   <tr>
