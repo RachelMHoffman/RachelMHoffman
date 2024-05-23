@@ -1,4 +1,4 @@
-<h1 style="font-size: 20px" align="center">Illustrator | InDesign | XD | HTML & CSS</h1>
+<h1 style="font-size: 20px" align="center"><a href="https://github.com/RachelMHoffman#target">Illustrator</a> | InDesign | XD | HTML & CSS</h1>
 
 <h2 style="font-size: 18px"><a id="target">✍🏻 Adobe Illustrator Projects</a></h2>
 
