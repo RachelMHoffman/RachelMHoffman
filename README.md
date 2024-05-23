@@ -1,7 +1,3 @@
-<h1 style="font-size: 20px" align="center">Rachel Hoffman</h1>
-
-<h1 style="font-size: 19px" align="center">Graphic Design Portfolio</h1>
-
 <h2 style="font-size: 18px">✍🏻 Adobe Illustrator Projects</h2>
 
 <table align="center">
