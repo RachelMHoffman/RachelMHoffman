@@ -5,10 +5,10 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-WF/blob/main/README.md"><img src="WFI-Logo-Thumbnail.png"></a>
+      <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-WF/blob/main/README.md"><img src="WFI_Logo_Thumbnail.png"></a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-EEK/blob/main/README.md"><img src="EEK-Logo-Thumbnail.png"></a>
+      <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-EEK/blob/main/README.md"><img src="EEK_Logo_Thumbnail.png"></a>
     </td>
   </tr>
   <tr>
