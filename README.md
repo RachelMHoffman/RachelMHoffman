@@ -1,6 +1,6 @@
-<h1 style="font-size: 20px" align="center"><a href="https://github.com/RachelMHoffman#AI">Illustrator</a> | <a href="https://github.com/RachelMHoffman#AID">InDesign</a> | <a href="https://github.com/RachelMHoffman#AXD">XD</a> | <a href="https://github.com/RachelMHoffman#HTMLCSS">HTML & CSS</a></h1>
+<h1 style="font-size: 20px" align="center">✍🏻 <a href="https://github.com/RachelMHoffman#AI">Illustrator</a> &nbsp; ✉️ <a href="https://github.com/RachelMHoffman#AID">InDesign</a> &nbsp; 💻 <a href="https://github.com/RachelMHoffman#AXD">XD</a> &nbsp; { } <a href="https://github.com/RachelMHoffman#HTMLCSS">HTML & CSS</a></h1>
 
-<h2 style="font-size: 18px"><a id="AI">✍🏻 Adobe Illustrator Projects</a></h2>
+<h2 style="font-size: 18px"><a id="AI">Logo Designs</a></h2>
 
 <table align="center">
   <tr>
@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-<h2 style="font-size: 18px"><a id="AID">✉️ Adobe InDesign Projects</a></h2>
+<h2 style="font-size: 18px"><a id="AID">Email Newsletter Designs</a></h2>
 
 <table align="center">
   <tr>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<h2 style="font-size: 18px"><a id="AXD">💻 Adobe XD Projects</a></h2>
+<h2 style="font-size: 18px"><a id="AXD">Interface Wireframe Designs</a></h2>
 
 (In process of moving over projects from old portfolio site)
 
@@ -97,7 +97,7 @@
   </tr>
 </table>
 
-<h2 style="font-size: 18px"><a id="HTMLCSS">{ } HTML + CSS Coding Projects</a></h2>
+<h2 style="font-size: 18px"><a id="HTMLCSS">Coding Projects</a></h2>
 
 (In process of updating and improving upon projects)
 
