@@ -54,29 +54,7 @@
 
 <h2 style="font-size: 18px"><a id="AXD">Interface Wireframe Designs</a></h2>
 
-(In process of moving over projects from old portfolio site)
-
 <table align="center">
-  <tr>
-    <td align="center" width="500">
-      <a href=""><img src="" width="" height=""></a>
-    </td>
-    <td align="center" width="500">
-      <a href=""><img src="" width="" height=""></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center"><i></i></p>
-      <p align="center"></p>
-      <p align="center"></p>
-    </td>
-    <td>
-      <p align="center"><i></i></p>
-      <p align="center"></p>
-      <p align="center"></p>
-    </td>
-  </tr>
   <tr>
     <td align="center" width="500">
       <a href="https://github.com/RachelMHoffman/XD-Web-Project-Chorus/blob/main/README.md"><img src="Chorus_Thumbnail.png" width="" height=""></a>
