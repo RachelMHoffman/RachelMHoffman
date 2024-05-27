@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td align="center" width="500">
-      <a href=""><img src="" width="" height=""></a>
+      <a href="https://github.com/RachelMHoffman/XD-Web-Project-Chorus/blob/main/README.md"><img src="Chorus_Thumbnail.png" width="" height=""></a>
     </td>
     <td align="center" width="500">
       <a href="https://github.com/RachelMHoffman/XD-Web-Project-Hourglass/blob/main/README.md"><img src="Hourglass-Thumbnail.png" width="" height=""></a>
@@ -87,9 +87,9 @@
   </tr>
   <tr>
     <td>
-      <p align="center"><i></i></p>
-      <p align="center"></p>
-      <p align="center"></p>
+      <p align="center"><i>Chorus</i></p>
+      <p align="center">Surfboard Retail Company Website</p>
+      <p align="center">2022</p>
     </td>
     <td>
       <p align="center"><i>Hourglass</i></p>
