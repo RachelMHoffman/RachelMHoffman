@@ -6,11 +6,11 @@
   <tr>
     <td align="center" width="350">
       <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-WF/blob/main/README.md"><img src="WFI-Logo-Thumbnail.png" 
-      width="350" height=""></a>
+      width="" height=""></a>
     </td>
     <td align="center" width="350">
       <a href="https://github.com/RachelMHoffman/Illustrator-Logo-Project-EEK/blob/main/README.md"><img src="EEK_Logo_Thumbnail.png" 
-      width="350" height=""></a>
+      width="" height=""></a>
     </td>
   </tr>
   <tr>
@@ -31,11 +31,11 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-SmartScape/blob/main/README.md"><img src="SmartScape-Thumbnail.png" width="300" height="300"></a>
+    <td align="center" width="350">
+      <a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-SmartScape/blob/main/README.md"><img src="SmartScape-Thumbnail.png" width="" height=""></a>
     </td>
-    <td align="center" width="300">
-      <a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-XYZ/blob/main/README.md"><img src="XYZ-Ventures-Thumbnail.png" width="300" height="300"></a>
+    <td align="center" width="350">
+      <a href="https://github.com/RachelMHoffman/InDesign-Newsletter-Project-XYZ/blob/main/README.md"><img src="XYZ-Ventures-Thumbnail.png" width="" height=""></a>
     </td>
   </tr>
   <tr>
@@ -57,10 +57,10 @@
 <table align="center">
   <tr>
     <td align="center" width="500">
-      <a href="https://github.com/RachelMHoffman/XD-Web-Project-Chorus/blob/main/README.md"><img src="Chorus_Thumbnail.png" width="" height="300"></a>
+      <a href="https://github.com/RachelMHoffman/XD-Web-Project-Chorus/blob/main/README.md"><img src="Chorus_Thumbnail.png" width="" height=""></a>
     </td>
     <td align="center" width="500">
-      <a href="https://github.com/RachelMHoffman/XD-Web-Project-Hourglass/blob/main/README.md"><img src="Hourglass-Thumbnail.png" width="" height="300"></a>
+      <a href="https://github.com/RachelMHoffman/XD-Web-Project-Hourglass/blob/main/README.md"><img src="Hourglass-Thumbnail.png" width="" height=""></a>
     </td>
   </tr>
   <tr>
